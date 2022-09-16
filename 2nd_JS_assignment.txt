@@ -1,0 +1,12 @@
+//Assignment 2: Javascript
+Create new repo 
+1.Create an array with multiple objects(7/8 values)  - array name = employee
+2.Object property: id (unique), name:'', age:, designation:'',salary, phone
+
+Questions:
+1.Filter all developer
+2.Filter employee below age 30
+3.Get all employee below age 30 and salary above 70000 (70K)
+4.Find an accountant with salary below 40000(40K)
+5.Find the employee with id 5
+6.get the employee with name Jess
